@@ -17,7 +17,7 @@ I’m an analog automation designer and layout engineer specializing in developi
 <p>
 <a href="https://www.facebook.com/ahmed.khairat.549/"><img
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/Ahmed Khairat/"><img
+<a href="https://www.linkedin.com/in/ahmed-khairat-00b23924b/"><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.instagram.com/Ahmed Khairat/"><img
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
